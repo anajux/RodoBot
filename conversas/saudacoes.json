@@ -1,0 +1,21 @@
+{
+    "versao": "1.0",
+    "conversas": [
+        {
+            "mensagens": ["olá", "oi", "oi, tudo bem?", "tudo bem?", "oi, como vai?"],
+            "resposta": "Olá! Sou o robô de atendimento da Rodoviária de Vitória da Conquista. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["Bom dia", "Olá, bom dia"],
+            "resposta": "Bom dia! Sou o robô de atendimento da Rodoviária de Vitória da Conquista. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["Boa tarde", "Olá, boa tarde"],
+            "resposta": "Boa tarde! Sou o robô de atendimento da Rodoviária de Vitória da Conquista. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["Boa noite", "Olá, boa noite"],
+            "resposta": "Boa noite! Sou o robô de atendimento da Rodoviária de Vitória da Conquista. Como posso te ajudar?"
+        }
+    ]
+}
