@@ -26,13 +26,21 @@ python robo.py
 ## 🔧 Estrutura do Projeto
 
 RodoBot/
+
 │-- conversas/  # Arquivos JSON contendo dados de interação do bot
+
 │-- __pycache__/  # Arquivos de cache do Python
+
 │-- db.sqlite3  # Banco de dados SQLite
+
 │-- robo.py  # Código principal do bot
+
 │-- servico.py  # Módulo de serviços auxiliares
+
 │-- treinamento.py  # Script para treinamento do bot
+
 │-- requisitos.txt  # Dependências do projeto
+
 
 ## 📄 Licença
 
