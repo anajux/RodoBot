@@ -44,4 +44,4 @@ RodoBot/
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto é de uso livre para fins educacionais e está licenciado sob a MIT License.
